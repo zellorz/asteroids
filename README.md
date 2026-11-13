@@ -34,6 +34,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
+On Linux/macOS, use `python3` instead of `python`.
+
 ## Project structure
 
 | File | Purpose |
